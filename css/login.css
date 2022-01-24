@@ -1,0 +1,69 @@
+body{
+    background-image: url(C:Projetos/img/fundosite.png);
+    background-size: 100%;
+    font-family: sans-serif;
+}
+
+.form{
+    width: 500px; 
+    margin: auto;
+    padding-top: 170px;
+}
+
+.card{
+    box-shadow: 1px 1px 5px #2628a7;
+    background-color: #0f3ac9;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+.card-top{
+     text-align: center;
+     
+}
+
+.card-group{
+    margin-bottom: 15px;
+}
+
+.card-group > button{
+    background-image: linear-gradient(to right, #1500ff, #041561);
+    width: 100%;
+    border-radius: 30px;
+    padding: 20px;
+    border: 0px;
+    outline: 0;
+}
+
+.btn button:hover{
+    background-image: linear-gradient(to right,  #041561, #1500ff);
+}
+
+.card-group > label{
+    width: 100%;
+    color: rgb(255, 255, 255);
+    display: block;
+   }
+
+   .card-group> input{
+       border-radius: 5px;
+       outline: 0;
+       width: 100%;
+       height: 35px;
+       padding: 5px;
+    
+   }
+
+.imglogin{
+   border-radius: 50px;
+   width: 100px;
+   box-shadow: 10px 10px 5px #0a06ff;
+   
+    
+}
+
+.tittle{
+    color:#000000;
+}
+
+
